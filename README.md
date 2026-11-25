@@ -107,4 +107,4 @@ python -m pytest -q
 
 I designed the strategies, the checks and the review of every result against the raw data. The code was written with AI coding tools (Claude Code).
 
-**Abhinay Kadam** · [LinkedIn](https://www.linkedin.com/in/abhinay-kadam-8b660b32a)
+**Abhinay Kadam** · [LinkedIn](https://www.linkedin.com/in/abhinay-kadam/)
