@@ -1,0 +1,21 @@
+# secrets and credentials (never commit)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# live collector output and raw archives (the sample in data/sample/ is the only data kept)
+data/live/
+data/archive/
+*.db
+*.db-wal
+*.db-shm
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
